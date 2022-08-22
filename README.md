@@ -1,6 +1,6 @@
 # Credit_Risk_Analysis
 ## Analysis Overview
-The purpose of this project was to build and evaluate various machine learning models to predict credit credit card risk. The credit card credit dataset from LendingClub was heavily unbalanced with 68,470 low_risk and only 347 high_risk. We would employ the different techniques to train and evalute the models with unbalanced classes. 
+The purpose of this project was to build and evaluate various machine learning models to predict credit card risk. The credit card credit dataset from LendingClub was heavily unbalanced with 68,470 low_risk and only 347 high_risk. We would employ the different techniques to train and evalute the models with unbalanced classes. 
 
 <img width="296" alt="dataset" src="https://user-images.githubusercontent.com/102785000/183708778-957237de-9df5-4588-839a-8d0be36f2299.png">
 
